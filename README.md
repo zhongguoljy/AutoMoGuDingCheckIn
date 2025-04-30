@@ -1,4 +1,4 @@
-# AutoMoGuDingCheckIn（停止维护）
+# AutoMoGuDingCheckIn
 
 AutoMoGuDingCheckIn 工学云自动打卡，采用新接口，更安全，支持多用户、自定义位置信息、保持登录状态、每日打卡检查、打卡位置浮动、消息推送，免服务器运行
 
